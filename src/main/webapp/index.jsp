@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Veda</h2>
+<h2>Moksha</h2>
 </body>
 </html>
